@@ -1,2 +1,2 @@
 # podcaster
-Podcaster is a podcast app developed on 5º Edition of NLW Bootcamp
+Podcaster is a podcast web application developed on 5º Edition of NLW Bootcamp
